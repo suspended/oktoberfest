@@ -1,4 +1,3 @@
-4 PRs for Hacktober Fest 2016!
-1 . 1 PR!
+**Get Your 4 PRs for Hacktoberfest 2017!**
 
-3 . 3 PR!
+* Type your username here *
